@@ -1,3 +1,3 @@
 # bsSite
 
-![Önizleme](https://github.com/AdemAkpinar/blob/main/bsSite/img/readme.mp4)
+![Önizleme](https://github.com/AdemAkpinar/bsSite/blob/main/img/readme.gif)
